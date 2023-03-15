@@ -1,0 +1,69 @@
+.dashboard {
+    padding: 0px;
+  }
+  
+  .nav-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #171010;
+    padding-bottom: 20px;
+    background: rgb(0, 7, 61);
+    background-image: none;
+  }
+  
+  .logo {
+  
+    display: flex;
+    align-items: center;
+    color: #fff;
+    background: none;
+    text-shadow: #171010;
+    
+  }
+  
+  .logo img {
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  .date {
+    font-size: 18px;
+    margin-right: 100px;
+    color: #eee;
+    background: none;
+  }
+  
+  .account {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    background: none;
+    
+  }
+  .name{
+    margin-right: 20px;
+    color: #fff;
+    background: none;
+  }
+  
+  .account img {
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  .account .settings {
+    display: flex;
+    align-items: center;
+    padding: 9px;
+    border-radius: 5px;
+    background-color: #eee;
+    cursor: pointer;
+  }
+  
+  .account .settings i {
+    margin-right: 1px;
+  }
+  

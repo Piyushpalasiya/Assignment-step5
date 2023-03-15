@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "name": "piyush",
+      "email": "piyush@gmail.com",
+      "phone": "8793612964",
+      "address": "usa",
+      "id": "3",
+      "status": "Active"
+    },
+    {
+      "name": "Abhijit",
+      "email": "abhi@gmail.com",
+      "phone": "9764560208",
+      "address": "Vaijapur",
+      "id": "1",
+      "status": "Active"
+    },
+    {
+      "name": "ganesh",
+      "email": "ganesh@gmail.com",
+      "phone": "45812568923",
+      "address": "panav",
+      "id": "2",
+      "status": "Inactive"
+    },
+    {
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "phone": "9587568923",
+      "address": "sambhajinagar",
+      "id": "4",
+      "status": "Active"
+    },
+    {
+      "name": "sagar",
+      "email": "sagar@gmail.com",
+      "phone": "9587568923",
+      "address": "vaijapur",
+      "id": "5",
+      "status": "Inactive"
+    },
+    {
+      "name": "vishal",
+      "email": "vishal@gmail.com",
+      "phone": "45871238923",
+      "address": "pune",
+      "id": "6",
+      "status": "Active"
+    },
+    {
+      "name": "kishor",
+      "email": "kishor@gmail.com",
+      "phone": "12587568923",
+      "address": "india",
+      "id": "7",
+      "status": "Active"
+    },
+    {
+      "name": "sumit",
+      "email": "piyush@gmail.com",
+      "phone": "5687568923",
+      "address": "sambhajinagar",
+      "id": "7",
+      "status": "Active"
+    },
+    {
+      "name": "chetan",
+      "email": "chetan@gmail.com",
+      "phone": "8987568923",
+      "address": "vaijapur",
+      "id": "8",
+      "status": "Active"
+    },
+    {
+      "name": "anand",
+      "email": "anand@gmail.com",
+      "phone": "9587568923",
+      "address": "rajangaon",
+      "id": "9",
+      "status": "Active"
+    },
+    {
+      "name": "uddhav",
+      "email": "uddhav@gmail.com",
+      "phone": "7587568923",
+      "address": "paithan",
+      "id": "9",
+      "status": "Inactive"
+    },
+    {
+      "name": "Yash",
+      "email": "yash@gmail.com",
+      "phone": "7218240492",
+      "address": "Indore",
+      "id": "9",
+      "status": "Inactive"
+    }
+  ]
+}
